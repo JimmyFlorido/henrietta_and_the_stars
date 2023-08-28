@@ -19,3 +19,5 @@ A resposta residia no **tempo para uma estrela demora para brilhar e apagar**, o
 
 Isto não é revelado no artigo, no entanto, graças à relação descoberta pela Henrietta, foi possível calcular com precisão a magnitude do brilho da estrela, e dessa forma, usar a diferença entre a maginutude aparente e precisa para aferir a distância do objeto. Isto é um método que revelou uma alternativa do uso de paralaxe para calcular a distãncia. 
 
+Vale destacar que o meu interesse nesse artigo parte [desse vídeo](https://www.youtube.com/watch?v=JWpJjsou99c), o qual apresentou a análise de dados que depertou o meu interesse.  
+
